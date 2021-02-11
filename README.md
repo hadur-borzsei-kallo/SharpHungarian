@@ -23,7 +23,6 @@ It was an idea I had over the last couple of days, and spent a short morning put
 
 Enjoy Red Team :)
 
-Hadur
 
 *** DISCLAIMER ***
 
